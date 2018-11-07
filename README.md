@@ -1,2 +1,2 @@
-#Elswordclopedia
-A fansite example made for webdev practice, updated as I learn.
+# Elswordclopedia
+A fansite example of the game Elsword made for webdev practice, updated as I learn.
